@@ -1,0 +1,24 @@
+_repo: The-Iron-Boys-as-Foremenor-Heading-the-Diamond-Drill-Shift_38994
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38994-h/images/iron2cover.jpg
+creator:
+  author:
+    agent_name: Mears, James R.
+    gutenberg_agent_id: '39762'
+    url: http://www.gutenberg.org/2009/agents/39762
+description: ''
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Iron mines and mining -- Juvenile fiction'
+title: The Iron Boys as Foremen; or, Heading the Diamond Drill Shift
+url: http://www.gutenberg.org/ebooks/38994
